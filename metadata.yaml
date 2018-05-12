@@ -1,0 +1,31 @@
+_repo: An-Outline-of-Occult-Science_30718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steiner, Rudolf
+    alias: Steiner, Rudolph
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '26537'
+    url: http://www.gutenberg.org/2009/agents/26537
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
+description: ''
+gutenberg_issued: '2009-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Occultism'
+- !lcc 'BF'
+- !lcsh 'Theosophy'
+- !lcc 'BP'
+- !lcsh 'Anthroposophy'
+title: An Outline of Occult Science
+url: http://www.gutenberg.org/ebooks/30718
